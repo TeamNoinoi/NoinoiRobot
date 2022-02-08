@@ -45,9 +45,4 @@ The noinoi bot is the one of the powerdyll and superfast group management bot on
 
 #### ᴄʀᴇᴅɪᴛs 📍
 ```
-• Saitama - Sawada
-• Kazuko - Heyaaman
-• DaisyX - Inuka
-• Phoenix Collosus - Phoenix
-• Noinoi - Baziibro
 ```
